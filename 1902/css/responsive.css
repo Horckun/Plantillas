@@ -1,0 +1,144 @@
+/* MÓVILES */
+@media screen and (max-width: 767px) {
+  header {
+    padding: 3% 0;
+  }
+  .web {
+    width: 50%;
+    font-size: 0.4em;
+  }
+  .menu {
+    display: none;
+  }
+  .menu2 {
+    width: 10%;
+  }
+  .redes {
+    width: 100%;
+  }
+  .menu_proyectos {
+    width: 36%;
+    padding: 1%;
+    float: left;
+  }
+  .menu_proyectos_pc {
+    display: none;
+  }
+  .menu_pyt_pc {
+    display: none;
+  }
+  .proyectos {
+    margin-top: 15%;
+    width: 60%;
+    padding: 1%;
+    float: right;
+  }
+  .proyectos_pc {
+    display: none;
+  }
+  #web {
+    display: none;
+  }
+}
+/* TABLETS */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  header {
+    padding: 2% 0;
+  }
+  .web {
+    width: 34%;
+    border-right: 1px solid #eee;
+  }
+  .menu2 {
+    display: none;
+  }
+  .menu {
+    width: 65%;
+  }
+  .menu a {
+    border: 1px solid #eee;
+  }
+  .redes {
+    display: none;
+  }
+  .presentacion {
+    font-size: 1.5em;
+  }
+  .menu_proyectos {
+    width: 36%;
+    padding: 1%;
+    float: left;
+  }
+  .menu_proyectos_pc {
+    display: none;
+  }
+  .proyectos {
+    margin-top: 15%;
+    width: 60%;
+    padding: 1%;
+    float: right;
+  }
+  .proyectos_pc {
+    display: none;
+  }
+  #web {
+    display: none;
+  }
+}
+/* PC */
+@media screen and (min-width: 1025px) {
+  header {
+    padding: 1%;
+  }
+  .web {
+    width: 20%;
+    border-right: 1px solid #eee;
+  }
+  .menu2 {
+    display: none;
+  }
+  .menu {
+    width: 50%;
+    font-size: 2em;
+  }
+  .menu a {
+    border: 1px solid #eee;
+  }
+  .redes {
+    display: block;
+    font-size: 2em;
+    width: 20%;
+    float: left;
+    border-left: 1px solid #eee;
+  }
+  .presentacion {
+    font-size: 1.5em;
+  }
+  .menu_proyectos {
+    display: none;
+  }
+  .menu_proyectos_pc {
+    margin-top: 8%;
+    width: 36%;
+    padding: 1%;
+    float: left;
+  }
+  .proyectos {
+    display: none;
+  }
+  .proyectos_pc {
+    margin-top: 8%;
+    width: 60%;
+    padding: 1%;
+    float: right;
+  }
+  .proyectos p {
+    display: none;
+  }
+  .servicios {
+    padding-top: 10%;
+  }
+}
+.seccion_formulario {
+  padding-top: 10%;
+}

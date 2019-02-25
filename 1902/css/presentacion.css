@@ -1,0 +1,20 @@
+/* SECCIÓN */
+.presentacion {
+  text-align: center;
+  padding-top: 10%;
+}
+/* IMAGEN */
+.presentacion img {
+  margin: 5%;
+}
+/* DESCRIPCIÓN */
+.presentacion p {
+  text-align: justify;
+  width: 80%;
+  margin: 0 auto;
+  text-indent: 1%;
+}
+.azul {
+  color: #0043b6;
+  font-weight: bold;
+}

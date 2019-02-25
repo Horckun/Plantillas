@@ -1,0 +1,85 @@
+/* SECCIÓN */
+.menu_proyectos {
+  margin-top: 15%;
+  font-size: 1.5em;
+  background: #0043b6;
+  padding: 2%;
+  border-bottom: 1px solid #eee;
+}
+/* MENÚ */
+.menu_pyt {
+  border: 1px solid #eee;
+  padding: 2%;
+  text-align: center;
+}
+.menu_proyectos a {
+  text-decoration: none;
+  padding: 0 2%;
+  color: #eee;
+}
+.menu_pyt:hover nav {
+  display: block;
+}
+.menu_proyectos nav {
+  margin-top: 10%;
+  width: 100%;
+  list-style: none;
+  display: none;
+  background: #eee;
+}
+.menu_proyectos nav a {
+  text-decoration: none;
+  padding: 2%;
+  color: #0043b6;
+  display: block;
+  border-bottom: 1px solid #0043b6;
+}
+/* PROYCTOS */
+.proyectos {
+  margin-top: -20%;
+  padding: 1%;
+  font-size: 1.5em;
+}
+
+/* SECCIÓN PC */
+.menu_proyectos_pc {
+  margin-top: 15%;
+  font-size: 1.5em;
+  background: #0043b6;
+  padding: 2%;
+  border-bottom: 1px solid #eee;
+}
+/* MENÚ PC */
+.menu_pyt_pc {
+  border: 1px solid #eee;
+  padding: 2%;
+  text-align: center;
+}
+.menu_proyectos_pc a {
+  text-decoration: none;
+  padding: 0 2%;
+  color: #eee;
+}
+.menu_pyt_pc:hover nav {
+  display: block;
+}
+.menu_proyectos_pc nav {
+  margin-top: 10%;
+  width: 100%;
+  list-style: none;
+  display: none;
+  background: #eee;
+}
+.menu_proyectos_pc nav a {
+  text-decoration: none;
+  padding: 2%;
+  color: #0043b6;
+  display: block;
+  border-bottom: 1px solid #0043b6;
+}
+/* PROYECTOS PC */
+.proyectos_pc {
+  margin-top: -20%;
+  padding: 1%;
+  font-size: 1.5em;
+}

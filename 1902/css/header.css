@@ -1,0 +1,68 @@
+/* SECCION */
+header {
+  padding: 1%;
+  background: #0043b6;
+  color: #eee;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+}
+/* TÍTULO */
+.web {
+  float: left;
+}
+/* MENÚ */
+.menu {
+  float: left;
+  font-size: 1.5em;
+}
+.menu nav {
+  list-style: none;
+}
+.menu nav a {
+  text-decoration: none;
+  padding: 0 2%;
+  color: #eee;
+  display: inline-block;
+}
+.menu2 {
+  float: left;
+  font-size: 1.5em;
+  position: absolute;
+}
+.menu2 a {
+  text-decoration: none;
+  padding: 0 2%;
+  color: #eee;
+}
+.menu2:hover nav {
+  display: block;
+}
+.menu2 nav {
+  padding-top: 10%;
+  width: 250%;
+  list-style: none;
+  display: none;
+  background: #0043b6;
+}
+.menu2 nav a {
+  text-decoration: none;
+  font-size: 1em;
+  padding: 2%;
+  color: #eee;
+  display: block;
+  border-bottom: 1px solid #eee;
+}
+/* REDES SOCIALES */
+.redes {
+  clear: right;
+}
+.redes nav {
+  list-style: none;
+}
+.redes nav a {
+  text-decoration: none;
+  padding: 0 2%;
+  color: #eee;
+  display: inline-block;
+}

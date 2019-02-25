@@ -1,0 +1,37 @@
+/* SECCIÓN */
+.servicios {
+  padding-top: 15%;
+  width: 98%;
+  margin: 0 auto;
+}
+/* PAQUETES */
+.paquetes {
+  width: 28%;
+  margin: 0 auto;
+  float: left;
+  padding: 1%;
+  margin: 1%;
+  text-align: justify;
+  background: #eee;
+  box-shadow: 2px 2px 2px grey;
+  text-indent: 1%;
+}
+.paquetes h2 {
+  text-align: center;
+  font-size: 1.2em;
+  background: #0043b6;
+  padding: 2% 0;
+  color: #eee;
+}
+/* CAJAS */
+.cajas {
+  color: brown;
+}
+/* DESCRIPCIONES */
+.paquetes li {
+  list-style: none;
+  text-align: left;
+}
+.paquetes li i {
+  color: green;
+}

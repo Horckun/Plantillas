@@ -1,0 +1,38 @@
+/* SECCIÓN */
+.seccion_formulario {
+  padding-top: 15%;
+}
+/* FORMULARIO */
+.formulario {
+  width: 90%;
+  margin: 0 auto;
+  background: #eee;
+  padding: 1%;
+  box-shadow: 2px 2px 2px grey;
+}
+/* FIELDSET */
+fieldset {
+  border: 1px solid brown;
+  padding: 1%;
+}
+fieldset legend {
+  text-align: center;
+  font-size: 1.5em;
+}
+.datos_personales {
+  color: #0043b6;
+}
+.asunto {
+  color: orange;
+}
+.legal p {
+  text-indent: 1%;
+  text-align: justify;
+}
+.obligatorio {
+  color: red;
+}
+.obligatorio p {
+  text-indent: 1%;
+  text-align: justify;
+}

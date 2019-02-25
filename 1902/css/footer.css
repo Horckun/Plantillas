@@ -1,0 +1,28 @@
+/* SECCIÓN */
+footer {
+  clear:both;
+  padding: 1%;
+  background: #0043b6;
+  color: #eee;
+  text-align: center;
+}
+/* ENLACES FOOTER */
+footer nav {
+  font-size: 1.5em;
+  list-style: none;
+}
+footer nav a {
+  text-decoration: none;
+  padding: 0 2%;
+  color: #eee;
+  display: inline-block;
+}
+.redes_footer nav {
+  list-style: none;
+}
+.redes_footer nav a {
+  text-decoration: none;
+  padding: 1%;
+  color: #eee;
+  display: inline-block;
+}
